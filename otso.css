@@ -62,19 +62,19 @@ body {
     .naglowek img {
         height: 100px;
         position: absolute;
-        left: 70%;
+        left: 80%;
     }
     .naglowek p {
-        left: 10px;
+        left: 50px;
         position: absolute;
         line-height: 100px;
         font-weight: bolder;
-        font-size: 19px;
+        font-size: 38px;
     }
     .okladka img {
-        width: 350px;
+        width: 700px;
         position: absolute;
-        top: 250px;
+        top: 600px;
         left: 15%;
     }
 }
